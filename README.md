@@ -1,2 +1,3 @@
-# Hello everyone!
-## Welcome to Thibaut Bracquart's GitHub page !
+# Hello everyone 😄👋🏻 !
+
+## ✨✨✨ Welcome to Thibaut Bracquart's GitHub page ! ✨✨✨
