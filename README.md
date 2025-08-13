@@ -1,6 +1,8 @@
-# Hi! 👋 I'm Thibaut Bracquart
+# Hi! 👋
 
-🎉 Linux tinkerer | Like web dev ⚡
+I'm Thibaut Bracquart
+
+`🎉 Linux tinkerer | Like web dev ⚡`
 
 ---
 
