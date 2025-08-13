@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi! 👋 !
 
 I'm Thibaut Bracquart
 
@@ -10,4 +10,4 @@ I'm Thibaut Bracquart
 
 ---
 
-- Arch Linux & KDE Plasma / Hyprland (i use Arch btw)
+- Arch Linux & KDE Plasma / Hyprland (I use Arch btw).
