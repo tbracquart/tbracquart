@@ -9,8 +9,3 @@
 ---
 
 - Arch Linux & KDE Plasma / Hyprland (i use Arch btw)
-
----
-
-## 📊 GitHub Stats
-![Thibaut's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbracquart&show_icons=true&theme=radical)
