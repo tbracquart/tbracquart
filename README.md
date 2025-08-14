@@ -1,5 +1,4 @@
 |Hi! 👋 !|
-|:-:|
 
 I'm Thibaut Bracquart.
 
