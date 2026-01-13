@@ -2,7 +2,7 @@
 
 I'm Thibaut Bracquart.
 
-`🎉 Linux tinkerer | Like web dev ⚡`
+`🎉 Linux tinkerer ⚡`
 
 ---
 
@@ -10,4 +10,4 @@ I'm Thibaut Bracquart.
 
 ---
 
-- Arch Linux & KDE Plasma / Hyprland (I use Arch btw).
+- Omarchy (I use Arch btw).
