@@ -10,4 +10,4 @@ I'm Thibaut Bracquart.
 
 ---
 
-- Omarchy (I use Arch btw).
+- CachyOS (I use Arch btw).
